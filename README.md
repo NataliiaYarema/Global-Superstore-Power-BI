@@ -134,12 +134,12 @@ Most problematic categories:
 
 ## 👥 Target Audience
 
-C-Suite Executives - Strategic overview and crisis management   
-Operations Team - Shipping and fulfillment optimization (PRIORITY)   
-Sales Management - Regional and product performance   
-Finance Department - Profitability analysis and cost control   
-Supply Chain Team - Logistics optimization   
-Marketing Team - Campaign and discount effectiveness   
+- C-Suite Executives - Strategic overview and crisis management
+- Operations Team - Shipping and fulfillment optimization (PRIORITY)
+- Sales Management - Regional and product performance
+- Finance Department - Profitability analysis and cost control
+- Supply Chain Team - Logistics optimization
+- Marketing Team - Campaign and discount effectiveness   
 
 ---
 
