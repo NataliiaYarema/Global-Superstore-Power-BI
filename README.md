@@ -2,41 +2,41 @@
 
 ## 🎯 Project Objective
 
-- Comprehensive sales and profitability analysis for global operations, providing actionable insights for Sales Management and Operations Teams.
-- This Power BI dashboard visualizes key business performance metrics across multiple dimensions, identifying profit drivers, optimal discount strategies, and regional performance patterns to support data-driven decision making.
+   Comprehensive sales and profitability analysis for global operations, providing actionable insights for Sales Management and Operations Teams.   
+   This Power BI dashboard visualizes key business performance metrics across multiple dimensions, identifying profit drivers, optimal discount strategies, and regional performance patterns to support data-driven decision making.
 
 ---
 
 ## 📋 Dashboard Overview
 ### ✅ Dashboard Structure
-Sales Performance Report - Product-level dynamics   
-Monthly Sales - Time-series performance tracking   
-Discount Analysis - Discount impact on profitability   
-Orders Analysis - Order patterns and shipping insights   
-Sales Drivers & Breakdown - Sales performance decomposition   
-Profit Drivers & Breakdown - Hierarchical profit analysis   
-Details – Interactive drill-down page allowing users to explore specific product categories, regions, or customer segments selected from other dashboard charts for deeper insights. 
+- Sales Performance Report - Product-level dynamics
+- Monthly Sales - Time-series performance tracking
+- Discount Analysis - Discount impact on profitability
+- Orders Analysis - Order patterns and shipping insights
+- Sales Drivers & Breakdown - Sales performance decomposition
+- Profit Drivers & Breakdown - Hierarchical profit analysis
+- Details – Interactive drill-down page allowing users to explore specific product categories, regions, or customer segments selected from other dashboard charts for deeper insights. 
 
 ### 🔍 Key Performance Indicators
-Total Sales   
-Total Profit   
-Total Orders   
-Items Sold   
-Profit Margin   
-Average Sale   
-Discount Spend   
-Shipping Cost   
-Profit after Delivery Cost   
-Return Rate
+- Total Sales
+- Total Profit
+- Total Orders
+- Items Sold
+-  Profit Margin
+-  Average Sale
+-  Discount Spend
+-  Shipping Cost
+-  Profit after Delivery Cost
+-  Return Rate
 
 ### 🎛️ Interactive Filtering Options
-Time Period (2012-2015)   
-Region (Global coverage)   
-Customer Segment: Consumer / Corporate / Home Office   
-Product Category : Furniture / Office Supplies / Technology   
-Location Hierarchical drill-down: Market → Region → Country → State → City    
-Product Hierarchical drill-down: Category → Sub-Category → Product Name   
-Metric Type (Sales / Profit / Items Sold / Orders)
+- Time Period (2012-2015)
+- Region (Global coverage)
+- Customer Segment: Consumer / Corporate / Home Office
+- Product Category : Furniture / Office Supplies / Technology
+- Location Hierarchical drill-down: Market → Region → Country → State → City
+- Product Hierarchical drill-down: Category → Sub-Category → Product Name
+- Metric Type (Sales / Profit / Items Sold / Orders)
 
 ---
 
@@ -66,9 +66,8 @@ Metric Type (Sales / Profit / Items Sold / Orders)
 ![Discounts](Discounts_Project_BI.png)   
 - Maximum discount (60%) generates negative profit (-$412,582).
 - High Discount (40%): generates negative profit (-$364,384).   
-Optimal Discount Levels:   
 - Low Discount (0%): Best profit margin with $2.16M profit.
-- Medium Discount (20%): Balanced approach with $79,999 profit   
+- Medium Discount (20%): Balanced approach with $79,999 profit.   
 
 ### 📦 Orders & Returns
 ![Orders](Orders_Project_BI.png)
@@ -90,15 +89,15 @@ Optimal Discount Levels:
 
 ### 📉 Profit
 ![Breakdowns_Loss](Breakdowns_Bookmark_Project_BI.png)
-- Turkey shows negative profit (–$98K).
-- Loss-making cities include Istanbul, Ankara, Izmir, Bornova.
+   Turkey shows negative profit (–$98K).
+   Loss-making cities include Istanbul, Ankara, Izmir, Bornova.
 Most problematic categories:    
 - Office Supplies: Appliances, Art.
 - Furniture: Bookcaces, Chairs.
 - Technology: Machines, Copiers, Phones, Accessories.   
 
 ![Details](Details_Project_BI.png)
-By switching to the hidden “Details” page, users can drill down into specific product categories selected from other dashboard charts.
+   By switching to the hidden “Details” page, users can drill down into specific product categories selected from other dashboard charts.
 
 ---
 
