@@ -2,7 +2,8 @@
 
 ## 🎯 Project Objective
 
-Comprehensive sales and profitability analysis for global operations, providing actionable insights for Sales Management and Operations Teams. This Power BI dashboard visualizes key business performance metrics across multiple dimensions, identifying profit drivers, optimal discount strategies, and regional performance patterns to support data-driven decision making.
+Comprehensive sales and profitability analysis for global operations, providing actionable insights for Sales Management and Operations Teams.    
+This Power BI dashboard visualizes key business performance metrics across multiple dimensions, identifying profit drivers, optimal discount strategies, and regional performance patterns to support data-driven decision making.
 
 ---
 
@@ -32,7 +33,7 @@ Return Rate
 Time Period (2012-2015)   
 Region (Global coverage)   
 Customer Segment: Consumer / Corporate / Home Office   
-Product Category : : Furniture / Office Supplies / Technology   
+Product Category : Furniture / Office Supplies / Technology   
 Location Hierarchical drill-down: Market → Region → Country → State → City    
 Product Hierarchical drill-down: Category → Sub-Category → Product Name   
 Metric Type (Sales / Profit / Items Sold / Orders)
@@ -40,23 +41,22 @@ Metric Type (Sales / Profit / Items Sold / Orders)
 ---
 
 ## 📈 Key Findings
-
-![Sales](Sales_Project_BI.png)
 ### 📈 Temporal Trends
+![Sales](Sales_Project_BI.png)
 Both sales and profit demonstrate a steady upward trend between 2012 and 2015, reflecting overall business expansion and stronger market penetration.   
 The Phones and Copiers categories stand out as the strongest revenue drivers, consistently delivering the highest sales and profit margins across the observed period.   
 In contrast, the Tables (Furniture) category shows the lowest sales volumes.   
 Heavy discounting practices have led to significant margin erosion, resulting in negative profit contribution despite stable demand.   
 
 ### 📈🛒 Top Selling Products:
-Apple Smart Phone   
-Cisco Smart Phone   
-Motorola Smart Phone   
-Nokia Smart Phone   
-Canon Image Copier   
+- Apple Smart Phone
+- Cisco Smart Phone
+- Motorola Smart Phone
+- Nokia Smart Phone
+- Canon Image Copier   
 
-![Monthly](Monthly_Project_BI.png)
 ### 📅💰 Monthly Sales
+![Monthly](Monthly_Project_BI.png)
 The highest Sales Share of year-to-date sales is typically concentrated in February (43–50%), after which a gradual decline is observed towards the end of the year.   
 This pattern highlights a strong seasonal effect early in the year, which tapers off in subsequent months.   
 The most remarkable MoM growth occurred in August, with Sales +108.7% (August 2013) and Profit +554.7% (August 2012), indicating a period of exceptional business acceleration. In contrast, the weakest performance was recorded in January and July, where sales dropped by –57% (January 2013) and profit by –80.7% (July 2012), suggesting volatile demand cycles.   
@@ -66,14 +66,14 @@ However, an exceptionally low margin of 3.4% in July 2012 signals a period of in
 ![Discounts](Discounts_Project_BI.png)
 ### 💰 Discount Analysis   
 Critical Finding:    
-Maximum discount (60%) generates negative profit (-$412,582)   
-High Discount (40%): generates negative profit (-$364,384)   
+- Maximum discount (60%) generates negative profit (-$412,582).
+- High Discount (40%): generates negative profit (-$364,384).   
 Optimal Discount Levels:   
-Low Discount (0%): Best profit margin with $2.16M profit   
-Medium Discount (20%): Balanced approach with $79,999 profit   
+- Low Discount (0%): Best profit margin with $2.16M profit.
+- Medium Discount (20%): Balanced approach with $79,999 profit   
 
-![Orders](Orders_Project_BI.png)
 ### 📦 Orders & Returns
+![Orders](Orders_Project_BI.png)
 About 26,000 orders, with an average return rate of 4–5%.   
 Highest Profit: Western Europe, followed by Eastern and Southern Asia, Central America and US regions.   
 High return rates in Southern Europe, Southern Africa, Eastern and Southern US (5%).
@@ -84,20 +84,20 @@ The most unprofitable category after delivery — Furniture (–$156K).
 Standard Class makes more then 60% of profit and is the only shipping method that remains profitable after delivery costs, generating approximately $270K. This indicates that it is the most cost-efficient option, balancing both demand and logistics expenses.   
 First Class (–$100K), Same Day (–$40K), and Second Class (–$22K) all result in losses after accounting for delivery costs. Despite higher service levels, these shipping methods appear to be financially unsustainable under the current pricing model.
 
-![Breakdowns](Breakdowns_Project_BI.png)
 ### 💰 Sales c Geography
+![Breakdowns](Breakdowns_Project_BI.png)
 Total sales — $13M, strongest regions are Western Europe, Central America, and Oceania.   
 Leading country — France ($863K), especially Paris ($63K).   
 Main category — Office Supplies ($23K): Appliances, Storage,  Art.
 
-![Breakdowns_Loss](Breakdowns_Bookmark_Project_BI.png)
 ### 📉 Profit
+![Breakdowns_Loss](Breakdowns_Bookmark_Project_BI.png)
 Turkey shows negative profit (–$98K).   
 Loss-making cities include Istanbul, Ankara, Izmir, Bornova.   
 Most problematic categories:    
-Office Supplies: Appliances, Art;    
-Furniture: Bookcaces, Chairs;   
-Technology: Machines, Copiers, Phones, Accessories.   
+- Office Supplies: Appliances, Art.
+- Furniture: Bookcaces, Chairs.
+- Technology: Machines, Copiers, Phones, Accessories.   
 
 ![Details](Details_Project_BI.png)
 By switching to the hidden “Details” page, users can drill down into specific product categories selected from other dashboard charts.
@@ -149,7 +149,7 @@ Marketing Team - Campaign and discount effectiveness
 ## 🧰 Tools Used
 
 - **Power BI Desktop & Service**
-- **Data Source:** ![store_dataset](store_dataset.xlsx)
+- **Data Source:** [store_dataset](store_dataset.xlsx)
 
 ---
 
