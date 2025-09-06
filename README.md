@@ -89,8 +89,8 @@
 
 ### 📉 Profit
 ![Breakdowns_Loss](Breakdowns_Bookmark_Project_BI.png)
-   Turkey shows negative profit (–$98K).
-   Loss-making cities include Istanbul, Ankara, Izmir, Bornova.
+   Turkey shows negative profit (–$98K).   
+   Loss-making cities include Istanbul, Ankara, Izmir, Bornova.   
 Most problematic categories:    
 - Office Supplies: Appliances, Art.
 - Furniture: Bookcaces, Chairs.
