@@ -1,4 +1,4 @@
-# 📊 Global Superstore Sales & Profit – Power BI Dashboard
+# 📊 Global Superstore Sales & Profit – Power BI
 
 ## 🎯 Project Objective
 
